@@ -1,1 +1,225 @@
 
+body{padding:0px;
+margin:0px;}
+
+.mainsection{
+	width:100%;
+	padding:0px;
+	margin:0;
+	text-align:center;
+	
+}
+
+
+.bannersection{
+	width:100%;
+	padding:0px;
+	text-align:center;
+	height:400px;
+	background-image:url('../images/banner.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+
+.bannertext{	
+font-size:4em;
+color:#23668F;
+padding:60px;
+text-shadow:2px 2px 3px #030414;	
+	
+}
+
+
+
+
+
+.bannertext2{	
+color:#23668F;
+font-family:verdana;	
+}
+
+
+
+.navbar{
+width:100%;
+padding:0px;
+margin:0px;
+	background:#0D1122;	
+	
+}
+
+.navbar .imagelogo
+{
+	width:100px;
+	height:auto;
+	float:left;
+
+}
+
+
+.navbar .menu
+{
+	width:50%;
+	height:auto;
+	float:left;
+	padding-top:;
+	margin-top:35;
+	margin-left:25%
+	
+	
+}
+
+.navbar ul
+{
+	display:inline;
+	list-style-type:none;
+}
+
+.navbar a
+{border:solid red 0px;
+	font-size:18px;
+	text-decoration:none;
+	margin-left:5px;
+	padding:5px 20px ;
+	color:#ffffff;
+	/*border-right:solid 1px #ffffff;*/
+	
+}
+
+.navbar .separator
+{
+	font-size:18px;
+	border-right:solid 1px #ffffff;
+	
+}
+.navbar a:hover
+{	
+	background:#ffffff;
+	color:#0D1122;
+}
+
+
+.navbar .active
+{border:solid red 0px;
+	font-size:18px;
+	text-decoration:none;
+	margin-left:5px;
+	padding:5px 20px ;	
+	
+}
+.navbar li
+{
+	display:inline;
+}
+
+.doclear{clear:both;}
+
+
+/*SERVICES SECTION*/
+
+
+.services-section{
+	width:100%;
+	padding:0px;
+	margin:0px;
+	text-align:center;
+	
+}
+
+
+.service-text{	
+font-size:2em;
+color:#23668F;
+padding:10px;	
+	
+}
+
+
+.service-col{	
+float:left;
+margin-left:2%;
+text-align:center;
+border:#23668F 1px dotted;
+width:30%;height:255px;
+padding:5px;
+overflow:hidden;
+box-shadow:2px 2px 3px #030414;
+cursor:pointer;
+}
+
+.service-col:hover{	
+box-shadow:2px 5px 5px #030414;
+}
+
+
+
+.service-col .service-image{	
+width:60%;
+color:#23668F;
+	
+}
+.service-col-filler{	
+float:left;
+
+
+
+}
+
+
+/*FOOTER SECTION*/
+
+.footer-section
+{
+	padding:0px;
+	margin:0px;
+	
+	
+}
+
+.footer-text
+{
+	padding:40px;
+	margin-top:20px;
+	font-size:1.3em;
+	color:#ffffff;
+	text-align:center;
+	background:#0D1122;
+	
+	
+}
+
+
+/*About section*/
+
+
+
+.about_text{	
+font-size:2em;
+color:#23668F;
+width:100%;
+padding:20px;
+text-shadow:2px 2px 2px #030414;	
+font-family:verdana;	
+}
+.about_section{
+	width:100%;
+	padding:0px;
+	text-align:center;
+	margin:0px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
